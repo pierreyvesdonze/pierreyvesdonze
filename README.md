@@ -20,14 +20,13 @@ I am a french full stack developper since 2020 and I love to dev some new projec
 <img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -
 <img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> -
 <img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -
-<img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" /> -
+<img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
 
-## My principals projects
+### My principals projects
 
-| <img src="img/icon512.png"> | "https://monpoison.fr" | icon |
-                                    
-| --- | --- | --- |
-| <img src="./img/icon512.png"> | "https://monpoison.fr" | icon |
+<img src="icon512.png" style=width:65px> https://monpoison.fr <br>
+<img src="foetus.png" style=width:65px>  https://pydonze/foetus/home.fr <br>
+<img src="myfood.png" style=width:65px> https://pydonze.fr/myfood <br>
 
 
 
