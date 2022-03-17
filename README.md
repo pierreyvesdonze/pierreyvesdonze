@@ -22,7 +22,12 @@ I am a french full stack developper since 2020 and I love to dev some new projec
 <img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -
 <img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" /> -
 
-<!-- <img src="/img/skills.png"> -->
+## My principals projects
+
+| <img src="img/icon512.png"> | "https://monpoison.fr" | icon |
+                                    
+| --- | --- | --- |
+| <img src="./img/icon512.png"> | "https://monpoison.fr" | icon |
 
 
 
