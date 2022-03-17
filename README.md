@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I am PY (or Pi or 3.14... not pee). 
 
-<!--
-**pierreyvesdonze/pierreyvesdonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a french full stack developper since 2020 and I love to dev some new projects and learning new stuff every week.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a pwa specialy designed for addict people who care about their health
+- 🌱 I’m currently learning Vue.JS, Node.JS and REACT
+- 👯 I’m looking to collaborate with any people who can help me to become a better developper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My knowledges
+
+
+
+
