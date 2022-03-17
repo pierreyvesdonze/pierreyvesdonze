@@ -7,8 +7,8 @@ I am a french full stack developper since 2020 and I love to dev some new projec
 - 👯 I’m looking to collaborate with any people who can help me to become a better developper
 
 ## My knowledges
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 
 
