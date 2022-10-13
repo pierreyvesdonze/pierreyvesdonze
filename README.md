@@ -1,4 +1,4 @@
-### Hi, I am PY (or Pi or 3.14...). 
+### Hi, I am Py
 
 I am a french full stack developper since 2020 and I love to dev some new projects and learning new stuff every week.
 
