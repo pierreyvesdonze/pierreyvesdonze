@@ -21,7 +21,7 @@ I am a french full stack developper since 2020 and I love to dev some new projec
 <img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> -
 <img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -
 <img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" /> -
-<img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/react-original.svg" />
+<img style="width:42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <hr>
 
