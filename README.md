@@ -25,7 +25,10 @@ I am a french full stack developper since 2020 and I love to dev some new projec
 <hr>
 
 ### My principals projects
-<img src="icon512.png" style=width:65px> https://monpoison.fr <br>
+https://absurdum.pydonze.fr <br>
+https://portfolio.pydonze.fr <br>
+https://mydiary.pydonze.fr <br>
+https://monpoison.fr <br>
 
 
 
